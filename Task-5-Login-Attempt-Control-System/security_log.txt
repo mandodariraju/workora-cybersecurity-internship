@@ -1,0 +1,7 @@
+[2026-07-24 15:29:35.216111] Failed login attempt: admin IP:192.168.1.10 Attempt:1
+[2026-07-24 15:29:37.219314] Failed login attempt: admin IP:192.168.1.10 Attempt:2
+[2026-07-24 15:29:41.225942] Failed login attempt: admin IP:192.168.1.10 Attempt:3
+[2026-07-24 15:29:47.234087] Failed login attempt: admin IP:192.168.1.10 Attempt:4
+[2026-07-24 15:29:55.245080] Failed login attempt: admin IP:192.168.1.10 Attempt:5
+[2026-07-24 15:29:55.247927] ACCOUNT LOCKED: admin IP:192.168.1.10
+[2026-07-24 15:33:00.310051] Successful login: admin from IP 192.168.1.20
