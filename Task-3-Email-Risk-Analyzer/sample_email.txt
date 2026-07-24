@@ -1,0 +1,28 @@
+From: "PayPal Security" <security@paypa1-support.com>
+To: user@example.com
+Subject: Urgent: Your Account Has Been Suspended
+Date: Fri, 24 Jul 2026 10:30:00 +0530
+Message-ID: <123456789@example.com>
+Return-Path: <alerts@paypa1-support.com>
+Received: from unknown (203.0.113.45)
+Received-SPF: Fail (sender SPF validation failed)
+DKIM-Signature: Missing
+
+Dear Customer,
+
+We detected unusual activity on your PayPal account.
+
+Your account has been temporarily suspended due to suspicious login attempts.
+
+To avoid permanent suspension, you must verify your account immediately.
+
+Click the secure verification link below:
+
+http://paypa1-support.com/verify-account
+
+Failure to verify your account within the next 24 hours will result in permanent account closure.
+
+If you do not complete verification immediately, your account access may be permanently restricted.
+
+Thank you,
+PayPal Security Team
